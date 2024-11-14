@@ -1,7 +1,6 @@
-# 👋 ¡Hola, soy [Fredy de la Torre]!
+# 👋 ¡Hola, soy Fredy de la Torre!
 ¡Hola y bienvenido! Soy desarrollador web, especializado en construir soluciones eficientes y centradas en el usuario. Mi enfoque es crear experiencias intuitivas y trabajar en proyectos que generen impacto.
 
----
 
 ## 🚀 Sobre mí  
 Soy un desarrollador con experiencia en tecnologías de frontend y backend, y me encanta explorar nuevas herramientas para mejorar mis proyectos. Creo en el poder de la colaboración y disfruto trabajar en equipos para lograr resultados que superen expectativas.
